@@ -1,6 +1,0 @@
-type: target-group
-name: chicago_oncology2
-conditions:
-- operator: eq
-property: clinicId
-operand: 8
