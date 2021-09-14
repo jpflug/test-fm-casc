@@ -1,0 +1,6 @@
+type: target-group
+name: chicago_oncology
+conditions:
+- operator: eq
+property: clinicId
+operand: 8
