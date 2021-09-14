@@ -4,4 +4,4 @@ conditions:
   - operator: in-array
     property: rox.platform
     operand:
-      - ios
+      - android
